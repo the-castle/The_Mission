@@ -1,1 +1,2 @@
 
+{'num':'1', 'msgs':'\nقـنـاتـنـا عـلـى الـتــيلـجـرام\n\n يمكنك متابعة قناتنا على التيلجرام لتحصل على التحديثات اولاً بأول ولتحميلها بكل سهولة\n\nOur channel on the Telegram\n\nYou can follow our Telegram channel to get the updates up-to-date and download them with ease\n' , 'dli':'https://t.me/joinchat/AAAAAFXYTnToNWWa3LBIeA'}
